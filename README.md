@@ -90,7 +90,7 @@ Enthusiastic about solving real-world problems using AI.
 
 **VIT Bhopal University**  
 B.Tech CSE (AI & ML)  
-📊 CGPA: **9.18/10**  
+📊 CGPA: **9.17/10**  
 *2023 – Present*  
 
 **Rajeev Gandhi Memorial HSS, Kerala**  
